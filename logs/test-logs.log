@@ -288,3 +288,39 @@
 2016-11-03 00:53:40 INFO  BasicAutoTest:81 - Going to baseURL
 2016-11-03 00:53:49 INFO  BasicAutoTest:39 - Sleep at Ebay for 5 Seconds
 2016-11-03 00:54:09 INFO  BasicAutoTest:94 - Closing all driver windows.
+2016-11-03 22:08:35 INFO  BasicAutoTest:75 - Setting up driver
+2016-11-03 22:08:51 INFO  BasicAutoTest:81 - Going to baseURL
+2016-11-03 22:09:37 INFO  BasicAutoTest:94 - Closing all driver windows.
+2016-11-03 22:11:13 INFO  BasicAutoTest:75 - Setting up driver
+2016-11-03 22:11:28 INFO  BasicAutoTest:81 - Going to baseURL
+2016-11-03 22:12:13 INFO  BasicAutoTest:94 - Closing all driver windows.
+2016-11-03 22:14:03 INFO  BasicAutoTest:75 - Setting up driver
+2016-11-03 22:14:18 INFO  BasicAutoTest:81 - Going to baseURL
+2016-11-03 22:14:36 INFO  BasicAutoTest:94 - Closing all driver windows.
+2016-11-03 22:35:53 INFO  BasicAutoTest:75 - Setting up driver
+2016-11-03 22:36:06 INFO  BasicAutoTest:81 - Going to baseURL
+2016-11-03 22:36:51 WARN  BasicAutoTest:58 - Successfully located element for news tile.
+2016-11-03 22:36:55 INFO  BasicAutoTest:94 - Closing all driver windows.
+2016-11-03 22:38:14 INFO  BasicAutoTest:75 - Setting up driver
+2016-11-03 22:38:26 INFO  BasicAutoTest:81 - Going to baseURL
+2016-11-03 22:38:34 WARN  BasicAutoTest:57 - Successfully located element for news tile.
+2016-11-03 22:38:38 INFO  BasicAutoTest:94 - Closing all driver windows.
+2016-11-03 23:25:09 INFO  BasicAutoTest:75 - Setting up driver
+2016-11-03 23:25:21 INFO  BasicAutoTest:81 - Going to baseURL
+2016-11-03 23:25:34 WARN  BasicAutoTest:52 - Successfully located element for news tile.
+2016-11-03 23:26:10 WARN  BasicAutoTest:68 - Unable to locate element for TV program.
+2016-11-03 23:26:13 INFO  BasicAutoTest:94 - Closing all driver windows.
+2016-11-04 00:08:12 INFO  BasicAutoTest:75 - Setting up driver
+2016-11-04 00:08:24 INFO  BasicAutoTest:81 - Going to baseURL
+2016-11-04 00:08:36 WARN  BasicAutoTest:52 - Successfully located element for news tile.
+2016-11-04 00:08:42 WARN  BasicAutoTest:68 - Unable to locate element for TV program.
+2016-11-04 00:08:45 INFO  BasicAutoTest:94 - Closing all driver windows.
+2016-11-04 00:09:27 INFO  BasicAutoTest:75 - Setting up driver
+2016-11-04 00:09:39 INFO  BasicAutoTest:81 - Going to baseURL
+2016-11-04 00:09:53 WARN  BasicAutoTest:52 - Successfully located element for news tile.
+2016-11-04 00:10:27 WARN  BasicAutoTest:68 - Unable to locate element for TV program.
+2016-11-04 00:10:30 INFO  BasicAutoTest:94 - Closing all driver windows.
+2016-11-04 00:18:15 INFO  BasicAutoTest:75 - Setting up driver
+2016-11-04 00:18:27 INFO  BasicAutoTest:81 - Going to baseURL
+2016-11-04 00:19:09 WARN  BasicAutoTest:68 - Unable to locate element for TV program.
+2016-11-04 00:19:13 INFO  BasicAutoTest:94 - Closing all driver windows.

@@ -12,6 +12,8 @@ package com.sqa.lg.multi;
 
 import org.testng.annotations.*;
 
+import com.sqa.lg.*;
+
 /**
  * MSNTest //ADDD (description of class)
  * <p>

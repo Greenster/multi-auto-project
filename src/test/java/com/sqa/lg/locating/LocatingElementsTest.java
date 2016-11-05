@@ -14,8 +14,8 @@ import org.openqa.selenium.*;
 import org.testng.*;
 import org.testng.annotations.*;
 
+import com.sqa.lg.*;
 import com.sqa.lg.helpers.*;
-import com.sqa.lg.multi.*;
 
 /**
  * LocatingElementsTest //ADDD (description of class)
